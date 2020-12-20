@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mohamedapp"
+    }
+  },
+  "defaultProject": "mohamedapp",
+  "cli": {
+    "analytics": "f05cb393-9eec-4c44-b0d7-2f978cfd4411"
+  }
 }
